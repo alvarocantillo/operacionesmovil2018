@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">operaciones</string>
+    <string name="titulo">Calculations</string>
+    <string name="numero_uno">First Number</string>
+    <string name="numero_dos">Second Number</string>
+    <string name="sumar">Sum</string>
+    <string name="limpiar">Clear</string>
+    <string name="error_numero_uno">Type the first number</string>
+    <string name="error_numero_dos">Type the second number</string>
+    <string name="restar">Subtract</string>
+    <string name="multiplicar">Multiply</string>
+    <string name="dividir">Divide</string>
+    <string name="operacion">Operation</string>
+    <string name="error_numero_tres">Cannot divide by zero</string>
+</resources>
